@@ -12,7 +12,7 @@ Meu nome é Cleiton
 
  0000107521502xsp@al.educacao.sp.gov.br
 
-![(https://tenor.com/pt-BR/view/gladgers-hacker-gers-guardians-of-galaxy-gladgers-hacker-man-gers-gif-3585939294345148790)]
+<div class="tenor-gif-embed" data-postid="11779074565004365658" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/mario-guns-gun-nobodycaresboutya-gif-11779074565004365658">Mario Guns GIF</a>from <a href="https://tenor.com/search/mario-gifs">Mario GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 
  
 
