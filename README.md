@@ -3,7 +3,7 @@
 Meu nome é Cleiton
 
 - Estou estudando no [Alura](https://www.alura.com.br/);
-- Estou me dessenvolvendo na línguagem JavaScript;
+- Estou me desenvolvendo na línguagem JavaScript;
 - Utilizo este espaço para minha organização e caompartilhamento de meus projetos desenvolvidos
 
   ### Você pode entrar em contato comigo:
